@@ -1,0 +1,5 @@
+# ignore ALL files in Saved
+Saved/
+
+# ignore ALL files in Intermediate
+Intermediate/
